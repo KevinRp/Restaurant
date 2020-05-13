@@ -1,0 +1,7 @@
+baseURL = "https://KevinRp.github.io/restaurant/"
+languageCode = "en-us"
+title = "BOMKEY - My New Hugo Site"
+publishDir = "docs"
+theme = "restaurant"
+
+
