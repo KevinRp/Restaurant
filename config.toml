@@ -69,7 +69,7 @@ description = "This is meta description"
 # google analitycs ID
 google_analitycs_id = "Your ID"
 # copyright
-copyright = "Copyright 2020 - All Rights Reserved. Design and Developed By Themefisher.com"
+copyright = "Copyright 2020 - All Rights Reserved."
 
 # Preloader
 [params.preloader]
@@ -84,7 +84,21 @@ blogTitle = "LATEST <span>BLOG POSTS</span>"
 #galleryTitle = "PHOTO <span>STREAM</span>"
 #socialTitle = "Follow <span>US</span>"
 
+############################ footer contact item
+[[params.footer.contactItem]]
+title="Teléfono"
+icon = "fa fa-phone"
+content = "593-04-2081156 / 593-04-2081058 / 593-04-2081072"
 
+[[params.footer.contactItem]]
+title="Dirección"
+icon = "fa fa-map-marker"
+content = "Malecón Simón Bolívar 100 y Loja. Bloque A, Primer Piso."
+
+[[params.footer.contactItem]]
+title="E-mail"
+icon = "fa fa-envelope"
+content = "msig@espol.edu.ec"
 
 ######################### footer gallery
 #[[params.footer.gallery]]
@@ -106,3 +120,19 @@ blogTitle = "LATEST <span>BLOG POSTS</span>"
 #image = "images/slider/slider-img-2.jpg"
 
 
+######################## Social Icon 
+[[params.footer.socialLink]]
+icon = "facebook"
+link = "https://fb.com/themefisher"
+
+[[params.footer.socialLink]]
+icon = "twitter"
+link = "https://fb.com/themefisher"
+
+[[params.footer.socialLink]]
+icon = "dribbble"
+link = "https://fb.com/themefisher"
+
+[[params.footer.socialLink]]
+icon = "instagram"
+link = "https://fb.com/themefisher"
