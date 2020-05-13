@@ -2,7 +2,7 @@
 baseURL = "https://kevinrp.github.io/restaurant/"
 languageCode = "en-us"
 title = "Restaurant Theme By Themefisher"
-theme = "restaurant"
+theme = "restaurant-hugo"
 summaryLength = "7"
 paginate = 6
 
