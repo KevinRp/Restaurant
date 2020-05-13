@@ -1,4 +1,4 @@
-baseURL = "https://KevinRp.github.io/restaurant/"
+baseURL = "https://kevinrp.github.io/restaurant/"
 languageCode = "en-us"
 title = "BOMKEY - My New Hugo Site"
 publishDir = "docs"
