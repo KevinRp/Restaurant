@@ -37,7 +37,7 @@ blog:
 ################### Subscription ################
 subscription:
   enable : true
-  bgImage : "images/subscribe-bg.jpg"
+  bgImage : "images/suscribirse.jpg"
   title : "SUBSCRIBE a nuestras <span>NOTICIAS</span>"
   description : "Para más información de nuestro Blog"
   #Mailchimp subscription configaration 
