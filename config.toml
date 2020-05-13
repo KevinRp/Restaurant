@@ -123,16 +123,8 @@ content = "msig@espol.edu.ec"
 ######################## Social Icon 
 [[params.footer.socialLink]]
 icon = "facebook"
-link = "https://fb.com/themefisher"
+link = "https://www.facebook.com/espol"
 
 [[params.footer.socialLink]]
 icon = "twitter"
-link = "https://fb.com/themefisher"
-
-[[params.footer.socialLink]]
-icon = "dribbble"
-link = "https://fb.com/themefisher"
-
-[[params.footer.socialLink]]
-icon = "instagram"
-link = "https://fb.com/themefisher"
+link = "https://twitter.com/espol"
