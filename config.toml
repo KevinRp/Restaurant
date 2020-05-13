@@ -62,7 +62,7 @@ weight = 3
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/logo.jpg"
 # meta data
 author = "Themefisher"
 description = "This is meta description"
