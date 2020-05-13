@@ -3,8 +3,10 @@ baseURL = "https://kevinrp.github.io/restaurant/"
 languageCode = "en-us"
 title = "Restaurant Theme By Themefisher"
 theme = "restaurant-hugo"
+publishDir = "docs"
 summaryLength = "7"
 paginate = 6
+
 
 ############################# Plugins ##############################
 
