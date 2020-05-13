@@ -6,54 +6,36 @@
     <description>Recent content on La evolución de la Web</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Dec 2018 12:30:01 +0600</lastBuildDate>
+    <lastBuildDate>Wed, 26 Dec 2018 12:23:10 +0600</lastBuildDate>
     
 	<atom:link href="https://kevinrp.github.io/restaurant/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Red Pepper Miso Wings 2</title>
-      <link>https://kevinrp.github.io/restaurant/red-pepper-miso-wings-2/</link>
-      <pubDate>Wed, 26 Dec 2018 12:30:01 +0600</pubDate>
-      
-      <guid>https://kevinrp.github.io/restaurant/red-pepper-miso-wings-2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
-    </item>
-    
-    <item>
-      <title>Red Pepper Miso Wings</title>
-      <link>https://kevinrp.github.io/restaurant/red-pepper-miso-wings/</link>
-      <pubDate>Wed, 26 Dec 2018 12:28:47 +0600</pubDate>
-      
-      <guid>https://kevinrp.github.io/restaurant/red-pepper-miso-wings/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
-    </item>
-    
-    <item>
       <title>WEB 1.0</title>
-      <link>https://kevinrp.github.io/restaurant/homestyle-chicken-pot-pie/</link>
+      <link>https://kevinrp.github.io/restaurant/web-1_0/</link>
       <pubDate>Wed, 26 Dec 2018 12:23:10 +0600</pubDate>
       
-      <guid>https://kevinrp.github.io/restaurant/homestyle-chicken-pot-pie/</guid>
+      <guid>https://kevinrp.github.io/restaurant/web-1_0/</guid>
       <description>La web 1.0, empezó en los años 60, era aquella que se caracteriza principalmente por ser unidireccional y realizada sobre contenidos estáticos.</description>
     </item>
     
     <item>
-      <title>Skillet Chicken with Potatoes</title>
-      <link>https://kevinrp.github.io/restaurant/restaurant/</link>
-      <pubDate>Wed, 26 Dec 2018 11:40:41 +0600</pubDate>
+      <title>WEB 1.0</title>
+      <link>https://kevinrp.github.io/restaurant/web-2.0/</link>
+      <pubDate>Wed, 26 Dec 2018 12:23:10 +0600</pubDate>
       
-      <guid>https://kevinrp.github.io/restaurant/restaurant/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
+      <guid>https://kevinrp.github.io/restaurant/web-2.0/</guid>
+      <description>La web 1.0, empezó en los años 60, era aquella que se caracteriza principalmente por ser unidireccional y realizada sobre contenidos estáticos.</description>
     </item>
     
     <item>
-      <title>Red Pepper Miso Wings</title>
-      <link>https://kevinrp.github.io/restaurant/my-first-post/</link>
-      <pubDate>Wed, 12 Dec 2018 04:28:21 +0600</pubDate>
+      <title>WEB 1.0</title>
+      <link>https://kevinrp.github.io/restaurant/web-3_0/</link>
+      <pubDate>Wed, 26 Dec 2018 12:23:10 +0600</pubDate>
       
-      <guid>https://kevinrp.github.io/restaurant/my-first-post/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
+      <guid>https://kevinrp.github.io/restaurant/web-3_0/</guid>
+      <description>La web 1.0, empezó en los años 60, era aquella que se caracteriza principalmente por ser unidireccional y realizada sobre contenidos estáticos.</description>
     </item>
     
   </channel>
