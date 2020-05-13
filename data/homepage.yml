@@ -37,7 +37,7 @@ blog:
 ################### Subscription ################
 subscription:
   enable : true
-  bgImage : "images/suscribirse.jpg"
+  bgImage : "images/suscribirse.jpg"  
   title : "SUBSCRIBE a nuestras <span>NOTICIAS</span>"
   description : "Para más información de nuestro Blog"
   #Mailchimp subscription configaration 
@@ -49,5 +49,5 @@ subscription:
 contact:
   enable : true
   title: "<span> Contáctanos </span>"
-  subtitle: "SIGN UP FOR EMAIL ALERTS"
+  subtitle: "REGÍSTRESE PARA RECIBIR ALERTAS POR CORREO ELECTRÓNICO"
   formAction : "#" #contact form works with formspree.io
