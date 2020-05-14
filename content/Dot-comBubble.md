@@ -6,7 +6,6 @@ description: "this is meta description"
 type: "post"
 ---
 
-The bubble
 
 The dot-com bubble started around 1997, peaked in 2000 and ultimately burst by 2002. As the name suggests the bubble was based on the speculation made in the stock market on internet-based companies. People started to invest blindly in internet-based companies without doing any research about the company on what are the service or products they provide.
 

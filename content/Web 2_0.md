@@ -1,6 +1,6 @@
 ---
 title: "WEB 2.0"
-date: 2018-12-26T12:23:10+06:00
+date: 2020-05-13T12:23:10+06:00
 image: images/blog/web1_0.png
 description: "this is meta description"
 type: "post"
