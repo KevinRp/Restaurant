@@ -29,7 +29,7 @@ Hablemos un poco de la evolución de la Web"
 ################# Blog ######################
 blog:
   enable : true
-  title : "Nuestro último <span>Post</span>"
+  title : "Nuestros últimos <span>Post</span>"
   bgImage : "images/blog/blog-bg.jpg"
   overlay : true
 
