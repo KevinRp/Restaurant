@@ -111,23 +111,25 @@ content = "msig@espol.edu.ec"
 
 ######################### footer gallery
 [[params.footer.gallery]]
-image = "images/slider/slider-img-1.jpg"
+image = "images/slider/blog-bg.png"
 
 [[params.footer.gallery]]
-image = "images/slider/slider-img-2.jpg"
+image = "images/slider/dot-com.png"
 
 [[params.footer.gallery]]
-image = "images/slider/slider-img-3.jpg"
+image = "images/slider/web1_0.png"
 
 [[params.footer.gallery]]
-image = "images/slider/slider-img-4.jpg"
+image = "images/slider/web2_0.png"
 
 [[params.footer.gallery]]
-image = "images/slider/slider-img-1.jpg"
+image = "images/slider/web3_0.png"
 
 [[params.footer.gallery]]
-image = "images/slider/slider-img-2.jpg"
+image = "images/slider/web4_0.png"
 
+[[params.footer.gallery]]
+image = "images/slider/neutral.png"
 
 ######################## Social Icon 
 [[params.footer.socialLink]]

@@ -7,7 +7,7 @@ heroArea:
 ################### Gallery ###################
 gallery:
   enable : true
-  title : "FEATURED WORKS"
+  title : "GALERIA"
   sliderItem:
     - image : "images/slider/blog-bg.png"
     - image : "images/slider/dot-com.png"
