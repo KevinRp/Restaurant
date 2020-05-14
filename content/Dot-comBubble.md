@@ -1,5 +1,5 @@
 ---
-title: "WEB 1.0"
+title: "Dot-com Bubble"
 date: 2018-12-26T12:23:10+06:00
 image: images/blog/web1_0.jpg
 description: "this is meta description"
