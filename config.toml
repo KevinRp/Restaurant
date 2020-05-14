@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://kevinrp.github.io/restaurant/"
 languageCode = "en-us"
-title = "La Evolución de la Web"
+title = "La Evolución De La Web"
 theme = "restaurant-hugo"
 publishDir = "docs"
 summaryLength = "7"
