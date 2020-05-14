@@ -79,10 +79,10 @@ preloader = "" # use .png , .svg or .gif format
 ################################### Footer ############################
 [params.footer]
 enable = true
-contactInfoTitle = "CONTACT <span>INFO</span> "
-blogTitle = "LATEST <span>BLOG POSTS</span>"
-#galleryTitle = "PHOTO <span>STREAM</span>"
-#socialTitle = "Follow <span>US</span>"
+contactInfoTitle = "INFORMACIÓN DE <span>CONTACTO</span> "
+blogTitle = "ÚLTIMOS<span>POST</span>"
+galleryTitle = "FOTOS <span></span>"
+socialTitle = "Síguenos <span></span>"
 
 ############################ footer contact item
 [[params.footer.contactItem]]
@@ -101,23 +101,23 @@ icon = "fa fa-envelope"
 content = "msig@espol.edu.ec"
 
 ######################### footer gallery
-#[[params.footer.gallery]]
-#image = "images/slider/slider-img-1.jpg"
+[[params.footer.gallery]]
+image = "images/slider/slider-img-1.jpg"
 
-#[[params.footer.gallery]]
-#image = "images/slider/slider-img-2.jpg"
+[[params.footer.gallery]]
+image = "images/slider/slider-img-2.jpg"
 
-#[[params.footer.gallery]]
-#image = "images/slider/slider-img-3.jpg"
+[[params.footer.gallery]]
+image = "images/slider/slider-img-3.jpg"
 
-#[[params.footer.gallery]]
-#image = "images/slider/slider-img-4.jpg"
+[[params.footer.gallery]]
+image = "images/slider/slider-img-4.jpg"
 
-#[[params.footer.gallery]]
-#image = "images/slider/slider-img-1.jpg"
+[[params.footer.gallery]]
+image = "images/slider/slider-img-1.jpg"
 
-#[[params.footer.gallery]]
-#image = "images/slider/slider-img-2.jpg"
+[[params.footer.gallery]]
+image = "images/slider/slider-img-2.jpg"
 
 
 ######################## Social Icon 
