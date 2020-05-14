@@ -16,6 +16,8 @@ En general, a mediados y finales de los 90, las expectativas de la sociedad sobr
 Muchos inversores ignoraron tontamente las reglas fundamentales de invertir en el mercado de valores , como analizar las relaciones  P / E , estudiar las tendencias del mercado y revisar los planes de negocios. En cambio, los inversores y los empresarios se preocuparon con nuevas ideas que aún no se había demostrado que tuvieran potencial de mercado. Además, ignoraron los signos evidentes de que la burbuja estaba a punto de explotar, como lo indicó Larry Elliott , editor de economía de "The Guardian".
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ---
+
+
 ## Factores que llevaron a la explosión de la burbuja Dot-Com ##
 
 ---
