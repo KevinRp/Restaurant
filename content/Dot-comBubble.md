@@ -1,10 +1,17 @@
 ---
 title: "Dot-com Bubble"
 date: 2018-12-26T12:23:10+06:00
-image: images/blog/web1_0.png
+image: images/blog/dot-com.png
 description: "this is meta description"
 type: "post"
 ---
 
-La web 1.0, empezó en los años 60, era aquella que se caracteriza principalmente por ser unidireccional y realizada sobre contenidos estáticos. Las primeras páginas que vimos en Internet publicaban contenidos de texto que, una vez publicados, no se actualizaban salvo que el “webmaster” modificase dichos contenidos y volviese a subir la web de nuevo a internet, algunas empresas comenzaron a tomar parte de las primeras webs con diseños muy pobres (no había herramientas, ni tecnología, ni conexión suficiente como para hacerlo mejor), los contenidos de estas quedaban rápidamente anticuados al ser complejo actualizarlos.
-En dicha época lo que mas se encontraban eran documentos y información principalmente cultural, los primeros navegadores visuales fueron Netscape e Internet Explorer, ya por los años 90 se surge el HTML que hizo las paginas mas agradables a la vista.
+The bubble
+
+The dot-com bubble started around 1997, peaked in 2000 and ultimately burst by 2002. As the name suggests the bubble was based on the speculation made in the stock market on internet-based companies. People started to invest blindly in internet-based companies without doing any research about the company on what are the service or products they provide.
+
+During the crash, many online shopping companies, such as pets.com, Webvan and communication companies such as WorldCom and North point communications failed and most of them went bankrupt. Even Cisco went down by 86% and Qualcomm lost a major portion of its market capitalization.
+
+Between 1990 and 1997 the percentage of people using computers in the USA increased from 15% to 35%, computers turned from being a luxury to becoming a necessity. This caused a major shift to Information technology and new IT companies were started.
+
+After so many web-based companies were started, it became the talk of the Town and it was very easy to get funding from a VC or an angel investor and a lot of the dot-com companies were started.
