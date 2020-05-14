@@ -57,6 +57,15 @@ name = "Blog"
 URL = "blog"
 weight = 3
 
+[[menu.main]]
+name = "Suscríbete"
+URL = "subscribe"
+weight = 4
+
+[[menu.main]]
+name = "Contáctanos"
+URL = "contact-us"
+weight = 5
 
 
 
@@ -64,7 +73,7 @@ weight = 3
 [params]
 logo = "images/logo.jpg"
 # meta data
-author = "Themefisher"
+author = "Grupo 8"
 description = "This is meta description"
 # google analitycs ID
 google_analitycs_id = "Your ID"
