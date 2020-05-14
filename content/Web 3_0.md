@@ -1,7 +1,7 @@
 ---
 title: "WEB 3.0"
 date: 2018-12-26T12:23:10+06:00
-image: images/blog/web1_0.jpg
+image: images/blog/web1_0.png
 description: "this is meta description"
 type: "post"
 ---
