@@ -23,7 +23,9 @@ Muchos inversores ignoraron tontamente las reglas fundamentales de invertir en e
 Hubo dos factores principales que llevaron al estallido de la burbuja de Internet:
 
 El uso de métricas que ignoraron el flujo de caja . Muchos analistas se centraron en aspectos de negocios individuales que no tenían nada que ver con cómo generaban ingresos o su flujo de caja . Por ejemplo, una teoría es que la burbuja de Internet explotó debido a una preocupación con la "teoría de la red", que establecía que el valor de una red aumentaba exponencialmente a medida que aumentaba la serie de nodos (computadoras que alojaban la red). Aunque este concepto tenía sentido, descuidó uno de los aspectos más importantes de la valoración de la red: la capacidad de la empresa de utilizar la red para generar efectivo y generar ganancias para los inversores.
+
 Existencias significativamente sobrevaloradas . Además de centrarse en métricas innecesarias, los analistas utilizaron multiplicadores muy altos en sus modelos y fórmulas para valorar las compañías de Internet, lo que resultó en valores poco realistas y demasiado optimistas. Aunque los analistas más conservadores no estuvieron de acuerdo, sus recomendaciones fueron prácticamente ahogadas por la abrumadora exageración en la comunidad financiera en torno a las acciones de Internet.
+
 El banco más grande del mundo, HSBC Holdings, realizó una investigación sobre las relaciones P / E de las empresas más nuevas y conocedoras de la tecnología. Según sus hallazgos, estas compañías más nuevas fueron sobrevaloradas en un 40%. De hecho, la única forma en que estas acciones podrían haberse valorado adecuadamente sería si sus ingresos crecieran un 80% anual durante cinco años. Sin embargo, esto probablemente habría sido un estándar imposible de cumplir para cualquier empresa, dado que incluso Microsoft solo promedió un poco más del 50% al año. 
 
 
