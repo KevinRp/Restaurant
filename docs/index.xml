@@ -6,10 +6,19 @@
     <description>Recent content on La evolución de la Web</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 May 2020 12:23:10 +0600</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2020 09:23:10 +0600</lastBuildDate>
     
 	<atom:link href="https://kevinrp.github.io/restaurant/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>WEB 2.0</title>
+      <link>https://kevinrp.github.io/restaurant/web_2_0/</link>
+      <pubDate>Thu, 14 May 2020 09:23:10 +0600</pubDate>
+      
+      <guid>https://kevinrp.github.io/restaurant/web_2_0/</guid>
+      <description>La web 2.0 se asentó a mediados de la primera década de este siglo.</description>
+    </item>
     
     <item>
       <title>Dot-com Bubble</title>
@@ -22,28 +31,19 @@
     
     <item>
       <title>WEB 1.0</title>
-      <link>https://kevinrp.github.io/restaurant/web-1_0/</link>
+      <link>https://kevinrp.github.io/restaurant/web_1_0/</link>
       <pubDate>Wed, 13 May 2020 12:23:10 +0600</pubDate>
       
-      <guid>https://kevinrp.github.io/restaurant/web-1_0/</guid>
-      <description>La web 1.0, empezó en los años 60, era aquella que se caracteriza principalmente por ser unidireccional y realizada sobre contenidos estáticos.</description>
-    </item>
-    
-    <item>
-      <title>WEB 2.0</title>
-      <link>https://kevinrp.github.io/restaurant/web-2_0/</link>
-      <pubDate>Wed, 13 May 2020 12:23:10 +0600</pubDate>
-      
-      <guid>https://kevinrp.github.io/restaurant/web-2_0/</guid>
+      <guid>https://kevinrp.github.io/restaurant/web_1_0/</guid>
       <description>La web 1.0, empezó en los años 60, era aquella que se caracteriza principalmente por ser unidireccional y realizada sobre contenidos estáticos.</description>
     </item>
     
     <item>
       <title>WEB 3.0</title>
-      <link>https://kevinrp.github.io/restaurant/web-3_0/</link>
+      <link>https://kevinrp.github.io/restaurant/web_3_0/</link>
       <pubDate>Wed, 13 May 2020 12:23:10 +0600</pubDate>
       
-      <guid>https://kevinrp.github.io/restaurant/web-3_0/</guid>
+      <guid>https://kevinrp.github.io/restaurant/web_3_0/</guid>
       <description>La web 1.0, empezó en los años 60, era aquella que se caracteriza principalmente por ser unidireccional y realizada sobre contenidos estáticos.</description>
     </item>
     
@@ -57,7 +57,7 @@
     </item>
     
     <item>
-      <title>Web_Neutrality </title>
+      <title>Web Neutrality </title>
       <link>https://kevinrp.github.io/restaurant/web_neutrality-/</link>
       <pubDate>Wed, 13 May 2020 12:23:10 +0600</pubDate>
       
