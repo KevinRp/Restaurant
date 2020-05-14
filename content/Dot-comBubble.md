@@ -7,10 +7,10 @@ type: "post"
 ---
 
 
-The dot-com bubble started around 1997, peaked in 2000 and ultimately burst by 2002. As the name suggests the bubble was based on the speculation made in the stock market on internet-based companies. People started to invest blindly in internet-based companies without doing any research about the company on what are the service or products they provide.
+La burbuja de las punto com comenzó alrededor de 1997, alcanzó su punto máximo en 2000 y finalmente estalló en 2002. Como su nombre indica, la burbuja se basó en la especulación hecha en el mercado de valores por las compañías basadas en Internet. La gente comenzó a invertir a ciegas en empresas basadas en Internet sin hacer ninguna investigación sobre la empresa sobre cuáles son los servicios o productos que ofrecen.
 
-During the crash, many online shopping companies, such as pets.com, Webvan and communication companies such as WorldCom and North point communications failed and most of them went bankrupt. Even Cisco went down by 86% and Qualcomm lost a major portion of its market capitalization.
+Durante el choque, muchas compañías de compras en línea, como pets.com, Webvan y compañías de comunicación como WorldCom y North Point fallaron y la mayoría de ellas se declararon en bancarrota. Incluso Cisco bajó un 86% y Qualcomm perdió una gran parte de su capitalización de mercado.
 
-Between 1990 and 1997 the percentage of people using computers in the USA increased from 15% to 35%, computers turned from being a luxury to becoming a necessity. This caused a major shift to Information technology and new IT companies were started.
+Entre 1990 y 1997, el porcentaje de personas que usaban computadoras en los Estados Unidos aumentó del 15% al ??35%, las computadoras pasaron de ser un lujo a convertirse en una necesidad. Esto provocó un cambio importante en la tecnología de la información y se iniciaron nuevas empresas de TI.
 
-After so many web-based companies were started, it became the talk of the Town and it was very easy to get funding from a VC or an angel investor and a lot of the dot-com companies were started.
+Después de que se iniciaron tantas empresas basadas en la web, se convirtió en el tema de conversación de la Ciudad y fue muy fácil obtener fondos de un inversionista virtual o un ángel inversionista y se iniciaron muchas de las empresas puntocom.
