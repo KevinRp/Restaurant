@@ -12,7 +12,7 @@ Pero, obviamente, muchos puntos-com no fueron éxitos desgarradores, y la mayoría
 
 En general, a mediados y finales de los 90, las expectativas de la sociedad sobre lo que Internet podía ofrecer eran poco realistas. Desde soñadores individuales hasta grandes corporaciones, los empresarios de Internet estaban enamorados de los sueños de convertirse en millonarios (o multimillonarios) de las puntocom. En general, estos empresarios se inspiraron en compañías como Amazon, eBay y Kozmo. Por supuesto, por cada empresa que creció hasta convertirse en un negocio multimillonario, cientos de otras fracasaron.
 
-Muchos inversores ignoraron tontamente las reglas fundamentales de invertir en el mercado de valores, como analizar las relaciones  P / E , estudiar las tendencias del mercado y revisar los planes de negocios. En cambio, los inversores y los empresarios se preocuparon con nuevas ideas que aún no se había demostrado que tuvieran potencial de mercado. Además, ignoraron los signos evidentes de que la burbuja estaba a punto de explotar, como lo indicó Larry Elliott , editor de economía de "The Guardian".
+Muchos inversores ignoraron tontamente las reglas fundamentales de invertir en el mercado de valores , como analizar las relaciones  P / E , estudiar las tendencias del mercado y revisar los planes de negocios. En cambio, los inversores y los empresarios se preocuparon con nuevas ideas que aún no se había demostrado que tuvieran potencial de mercado. Además, ignoraron los signos evidentes de que la burbuja estaba a punto de explotar, como lo indicó Larry Elliott , editor de economía de "The Guardian".
 
 ## Factores que llevaron a la explosión de la burbuja Dot-Com
 
