@@ -111,9 +111,6 @@ content = "msig@espol.edu.ec"
 
 ######################### footer gallery
 [[params.footer.gallery]]
-image = "images/slider/blog-bg.png"
-
-[[params.footer.gallery]]
 image = "images/slider/dot-com.png"
 
 [[params.footer.gallery]]
