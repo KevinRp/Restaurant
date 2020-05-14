@@ -5,18 +5,18 @@ heroArea:
   overlay : true
 
 ################### Gallery ###################
-#gallery:
-#  enable : true
-#  title : "FEATURED WORKS"
-#  sliderItem:
-#    - image : "images/slider/slider-img-1.jpg"
-#    - image : "images/slider/slider-img-2.jpg"
-#    - image : "images/slider/slider-img-3.jpg"
-#    - image : "images/slider/slider-img-4.jpg"
-#    - image : "images/slider/slider-img-1.jpg"
-#    - image : "images/slider/slider-img-2.jpg"
-#    - image : "images/slider/slider-img-3.jpg"
-#    - image : "images/slider/slider-img-4.jpg"
+gallery:
+  enable : true
+  title : "FEATURED WORKS"
+  sliderItem:
+    - image : "images/slider/blog-bg.png"
+    - image : "images/slider/dot-com.png"
+    - image : "images/slider/web1_0.png"
+    - image : "images/slider/web2_0.png"
+    - image : "images/slider/web3_0.png"
+    - image : "images/slider/web4_0.png"
+    - image : "images/slider/neutral.png"
+
 
 ################ About #######################
 about:
@@ -24,7 +24,12 @@ about:
   image : "images/evolucion.png"
   title : "La evolución de la  <span> Web</span> "
   description : "El desarrollo del software nos ha ayudado a versionar todo lo que podamos como para poder marcar una etapa, cosa que a mi particularmente me gusta por que puedo buscar las diferencias sin tener que saber si fue en 1980 o mediado 1990 o ya entrando a los 2000.
-Hablemos un poco de la evolución de la Web"
+Hablemos un poco de la evolución de la Web(World Wide Web, o www), es un conjunto de documentos (webs) interconectados por enlaces de hipertexto, disponibles en Internet que se pueden
+comunicar a través de la tecnología digital. Se entiende por “hipertexto” la mezcla de textos, gráficos y archivos de todo tipo, en un mismo documento.
+Web no son sinónimo de Internet; Internet es la red de redes donde reside toda la información, siendo un entorno de aprendizaje abierto, más allá de las
+instituciones educativas formales. La web es un subconjunto de Internet que contiene información a la que se puede acceder usando un navegador. Tanto
+el correo electrónico, como facebook, twiter, wikis, blogs, juegos, etc. son parte de Internet, pero no la web. La web es un “organismo vivo” y, como tal, evoluciona. Desde su creación el año
+1966, con esa primera red Arpanet, hasta el posterior nacimiento del Internet que conocemos, no ha dejado de cambiar y perfeccionarse."
   
 ################# Blog ######################
 blog:
