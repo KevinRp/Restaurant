@@ -1,6 +1,6 @@
 ---
 title: "125 nuevos líderes: Graduación Promoción 59"
-date: 2020-05-13T12:23:10+06:00
+date: 2020-05-21T12:23:10+06:00
 image: images/blog/Bachilleres.png
 description: "this is meta description"
 type: "post"
