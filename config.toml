@@ -111,27 +111,27 @@ content = "msig@espol.edu.ec"
 
 ######################### footer gallery
 [[params.footer.gallery]]
-image = "images/slider/dot-com.png"
+image = "images/slider/image1.png"
 
 [[params.footer.gallery]]
-image = "images/slider/web1_0.png"
+image = "images/slider/image2.png"
 
 [[params.footer.gallery]]
-image = "images/slider/web2_0.png"
+image = "images/slider/image3.png"
 
 [[params.footer.gallery]]
-image = "images/slider/web3_0.png"
+image = "images/slider/image4.png"
 
 [[params.footer.gallery]]
-image = "images/slider/web4_0.png"
+image = "images/slider/image5.png"
 
 [[params.footer.gallery]]
-image = "images/slider/neutral.png"
+image = "images/slider/image6.png"
 
 ######################## Social Icon 
 [[params.footer.socialLink]]
 icon = "facebook"
-link = "https://www.facebook.com/espol"
+link = "https://www.facebook.com/uejavierec/"
 
 [[params.footer.socialLink]]
 icon = "twitter"
