@@ -6,6 +6,7 @@ description: "Infomación sobre Web 4.0"
 type: "post"
 ---
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Innovación y creatividad se vive en la Feria de Emprendimiento
 01/22/2020
@@ -41,3 +42,5 @@ Productos naturales, amigables con el ambiente, alimentos libres de azúcar, veg
  
 
 Un trabajo que llevó 5 meses de preparación culmina con una experiencia gratificante, que permitió fomentar la creatividad y asertividad en nuestros estudiantes, mejorar la capacidad para resolver conflictos, tomar decisiones en un tiempo determinado y trabajar en equipo.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

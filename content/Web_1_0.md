@@ -6,6 +6,7 @@ description: "this is meta description"
 type: "post"
 ---
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 El Jueves 20 de Febrero se realizó la ceremonia de incorporación de la promoción 59, un momento muy especial y emotivo en el que 125 estudiantes culminaron oficialmente su etapa del colegio y se preparan para emprender un nuevo camino. 
 
  
@@ -29,3 +30,6 @@ Así también, se realizó la entrega de los siguientes reconocimientos:
 - Premio P. Pedro Arrupe SJ, a Fausto Saltos Ponce, como testimonio de su profunda experiencia de Dios, su destacado compromiso social y servicio a la comunidad Javeriana.
 
 ¡Felicidades a nuestros Javieranos y Javerianas!, que Dios y la Madre Dolorosa los bendigan en esta nueva etapa de sus vidas.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -6,6 +6,7 @@ description: "this is meta description"
 type: "post"
 ---
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 La diversión y el aprendizaje, son una combinación perfecta para que nuestros javerianos se preparen para los retos del futuro. Es por ello que, el lunes 20 y martes 21, en el cierre de Proyectos Escolares, los chicos que forman parte del Club de Robótica compartieron con sus compañeros los conocimientos y aventuras vividas durante el año lectivo 2019-2020.
 
@@ -28,3 +29,5 @@ Les decimos hasta pronto, el próximo año lectivo el Club de Robótica traerá 
  
 
 ¡Seguimo adelante, con entusiasmo!
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
