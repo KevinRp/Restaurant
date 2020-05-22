@@ -9,13 +9,13 @@ gallery:
   enable : true
   title : "GALERIA"
   sliderItem:
-    - image : "images/slider/blog-bg.png"
-    - image : "images/slider/dot-com.png"
-    - image : "images/slider/web1_0.png"
-    - image : "images/slider/web2_0.png"
-    - image : "images/slider/web3_0.png"
-    - image : "images/slider/web4_0.png"
-    - image : "images/slider/neutral.png"
+    - image : "images/slider/image1.png"
+    - image : "images/slider/image2.png"
+    - image : "images/slider/image3.png"
+    - image : "images/slider/image4.png"
+    - image : "images/slider/image5.png"
+    - image : "images/slider/image6.png"
+    - image : "images/slider/image7.png"
 
 
 ################ About #######################
