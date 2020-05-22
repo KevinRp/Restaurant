@@ -48,7 +48,7 @@ URL = "hero-area"
 weight = 1
 
 [[menu.main]]
-name = "Introducción"
+name = "Historia"
 URL = "about-us"
 weight = 2
 
