@@ -1,6 +1,6 @@
 ---
 title: "Valores Institucionales"
-date: 2020-05-22T12:23:10+06:00
+date: 2020-05-21T12:23:10+06:00
 image: images/blog/nuestros-valores.png
 description: "this is meta description"
 type: "post"
