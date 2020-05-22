@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://kevinrp.github.io/restaurant/"
 languageCode = "en-us"
-title = "Unidad Edicativa Particular Borja"
+title = "La Evolución De La Web"
 theme = "restaurant-hugo"
 publishDir = "docs"
 summaryLength = "7"
@@ -135,4 +135,4 @@ link = "https://www.facebook.com/uejavierec/"
 
 [[params.footer.socialLink]]
 icon = "twitter"
-link = "https://twitter.com/UEBorja?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+link = "https://twitter.com/espol"
