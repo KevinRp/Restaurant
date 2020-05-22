@@ -1,7 +1,7 @@
 ################## Hero area ##################
 heroArea:
   enable : true
-  bgImage : "images/header.jpg"
+  bgImage : "images/header.png"
   overlay : true
 
 ################### Gallery ###################
@@ -21,20 +21,20 @@ gallery:
 ################ About #######################
 about:
   enable : true
-  image : "images/evolucion.png"
-  title : "La evolución de la  <span> Web</span> "
-  description : "El desarrollo del software nos ha ayudado a versionar todo lo que podamos como para poder marcar una etapa, cosa que a mi particularmente me gusta por que puedo buscar las diferencias sin tener que saber si fue en 1980 o mediado 1990 o ya entrando a los 2000.
-Hablemos un poco de la evolución de la Web(World Wide Web, o www), es un conjunto de documentos (webs) interconectados por enlaces de hipertexto, disponibles en Internet que se pueden
-comunicar a través de la tecnología digital. Se entiende por “hipertexto” la mezcla de textos, gráficos y archivos de todo tipo, en un mismo documento.
-Web no son sinónimo de Internet; Internet es la red de redes donde reside toda la información, siendo un entorno de aprendizaje abierto, más allá de las
-instituciones educativas formales. La web es un subconjunto de Internet que contiene información a la que se puede acceder usando un navegador. Tanto
-el correo electrónico, como facebook, twiter, wikis, blogs, juegos, etc. son parte de Internet, pero no la web. La web es un “organismo vivo” y, como tal, evoluciona. Desde su creación el año
-1966, con esa primera red Arpanet, hasta el posterior nacimiento del Internet que conocemos, no ha dejado de cambiar y perfeccionarse."
+  image : "images/rector.png"
+  title : "Quienes <span>Somos</span> "
+  description : "El 20 de Abril del año 1956, en una villa ubicada en la esquina de las calles Tomás Martínez y Córdova empezaron a funcionar ambas unidades educativas. El 20 de Abril fue concebido como un colegio nocturno, orientado a personas de escasos recursos económicos. Mientras el San Francisco Javier, conocido comúnmente como Javier, impartió clases matutinas.
+
+
+Años más tarde, el Javier se trasladó a su nuevo local de 10 hectáreas, ubicado en la vía a la costa (1958 – 1959) funcionando como institución educativa e internado. En enero de 1962, se incorporó la primera promoción con 34 bachilleres.
+
+
+En la actualidad, la Unidad Educativa Particular Javier sigue educando jóvenes comprometidos con el evangelio y forjadores de un Ecuador más justo, visionario y solidario."
   
 ################# Blog ######################
 blog:
   enable : true
-  title : "Nuestros últimos <span>Post</span>"
+  title : "Últimas <span>Noticias</span>"
   bgImage : "images/blog/blog-bg.jpg"
   overlay : true
 
