@@ -1,44 +1,43 @@
 ---
-title: "WEB 4.0"
-date: 2020-05-13T12:23:10+06:00
-image: images/blog/web4_0.png
+title: "Innovación y creatividad se vive en la Feria de Emprendimiento"
+date: 2020-05-21T12:23:10+06:00
+image: images/blog/innovacion.png
 description: "Infomación sobre Web 4.0"
 type: "post"
 ---
 
-Ofrecerá un comportamiento más inteligente, predictivo, de esta con realizar la respectiva confirmación ejecutarán varias acciones que no devolverá lo solicitado. Varias empresas como Google, Microsoft o Facebook, entre otras, están desarrollando sistemas que mediante la utilización de Deep y Machine Leraning podrán procesar mayor información y ser mas intuitiva similar al cerebro humano. 
 
-Es la “web activa”. En la actual web 3.0, el uso de buscadores sigue siendo imprescindible, y estos nos sirven información en su mayor contenido páginas web que utilizamos en función de nuestras necesidades.
+Innovación y creatividad se vive en la Feria de Emprendimiento
+01/22/2020
 
-Así, si por ejemplo buscamos alojamiento en un hotel para pasar una noche en Roma, escribimos en un buscador algo así como “habitación hotel Roma”, y el buscador nos sirve un listado de páginas web, generalmente buscadores de habitaciones, que utilizaremos de forma “manual”.
 
-La web 4.0 supondrá un cambio radical.Cuando esté completamente desarrollada, suprimirá varios de los pasos que nos exige la utilización de la web 3.0, haciendo más directo e “invisible” su uso.
 
-En primer lugar, es posible que los tradicionales buscadores no desaparezcan pero sí se integren en asistentes virtuales.
+Dirección de Comunicación y Sistemas
 
-Ofrecerá un comportamiento más inteligente, predictivo, de esta con realizar la respectiva confirmación ejecutarán varias acciones que no devolverá lo solicitado. Varias empresas como Google, Microsoft o Facebook, entre otras, están desarrollando sistemas que mediante la utilización de Deep y Machine Leraning podrán procesar mayor información y ser mas intuitiva similar al cerebro humano. 
+La creatividad y la innovación son elementos fundamentales para crear una empresa, que, en conjunto con las herramientas y técnicas adecuadas, generan soluciones, permitiendo mejorar la vida de la comunidad.
 
----
-### Ventajas 
-	Conexión con personas y aplicaciones web de forma ubicua. 
-	La voz como vehículo de intercomunicación para formar una web total. 
-	La participación web es una necesidad; habilitación de compromiso con el cliente. 
-	Disponibilidad. 
-	La computadora de escritorio, telefono movil, tablets y iTV con realidad aumentada. 
-	Multiplataforma.
+ 
 
----
-### Desventajas 
-	Problemas con la confidencialidad y sensibilidad de la información. 
-	Vulnerabilidad de algunos equipos a ataques de virus, troyanos, espías, etc. 
-	La dependencia del sistema a la conexión a internet.
+Por esta razón, nuestros estudiantes de 1ro y 2do de Bachillerato participaron en la Feria de emprendimiento el 16 y 17 de Enero, una oportunidad para experimentar los diferentes procesos que se requieren al momento de crear una empresa. Procesos que implican desde generar una idea, hasta poner en práctica todo lo aprendido en el año, con el fin de identificar las ventajas, desventajas y conocer los pasos esenciales para realizar un plan de negocios, tales como:
 
----
-### Campos de Aplicación
-Redes neuronales artificiales, algunas aplicaciones como google fotos son capaces de filtrar las fotos y realizar búsquedas por palabras claves. 
+- Misión, Visión y Valores
 
-Por ejemplo la palabra perro o color, detectará en qué imágenes aparece un perro o un determinado color; en el caso de personas u objetos, es capaz 
+- Objetivos generales, específicos y metas
 
-de diferenciar qué es un perro real o una mancha cuya silueta se parece a un perro. 
+- Estructura organizacional
 
-Avances en los asistentes de voz. Siri, Google Now o Cortana cada vez entienden de forma más precisa y correcta lo que les decimos. Ciertos teléfonos inteligentes siempre están escuchando para activarse en el momento que oigan “Oye, Sir” u “Hola, Google Now”.
+- Marketing Mix
+
+- Punto de equilibrio y balance general
+
+- Uso de medios digitales
+
+El desarrollo del mismo les llevaría a exponer su idea a compañeros, padres de familia y docentes, y con ello identificar si el proyecto genera un impacto en el público.
+
+ 
+
+Productos naturales, amigables con el ambiente, alimentos libres de azúcar, veganos y libres de preservantes, fueron algunas de las ideas de nuestros Javerianos y Javerianas, quienes fueron evaluados por un jurado especializado en la asignatura, obteniendo resultados positivos y además, retroalimentación para cada emprendimiento.
+
+ 
+
+Un trabajo que llevó 5 meses de preparación culmina con una experiencia gratificante, que permitió fomentar la creatividad y asertividad en nuestros estudiantes, mejorar la capacidad para resolver conflictos, tomar decisiones en un tiempo determinado y trabajar en equipo.
