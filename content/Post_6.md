@@ -1,7 +1,7 @@
 ---
 title: "Convenios"
 date: 2020-05-21T12:23:10+06:00
-image: images/blog/Archivos.png
+image: images/blog/convenios.png
 description: "this is meta description"
 type: "post"
 ---
