@@ -102,17 +102,17 @@ socialTitle = "Síguenos <span></span>"
 [[params.footer.contactItem]]
 title="Teléfono"
 icon = "fa fa-phone"
-content = "593-04-2081156 / 593-04-2081058 / 593-04-2081072"
+content = "PBX: 200 3520 / 2001590"
 
 [[params.footer.contactItem]]
 title="Dirección"
 icon = "fa fa-map-marker"
-content = "Malecón Simón Bolívar 100 y Loja. Bloque A, Primer Piso."
+content = "Av. del Bombero, Km. 5.5, Guayaquil "
 
 [[params.footer.contactItem]]
 title="E-mail"
 icon = "fa fa-envelope"
-content = "msig@espol.edu.ec"
+content = "info@uejavierec.edu.ec"
 
 ######################### footer gallery
 [[params.footer.gallery]]
